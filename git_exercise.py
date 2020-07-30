@@ -5,3 +5,4 @@ def function_two():
     print("Function Two")
 
 def function_three():
+    print("Func3")
