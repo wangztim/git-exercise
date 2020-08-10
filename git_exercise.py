@@ -3,3 +3,6 @@ def function_one():
 
 def function_four():
     print("Function Four from func_4_branch")
+
+def function_five():
+    print("Function Five :)")
