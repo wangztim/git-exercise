@@ -13,5 +13,10 @@ def function_three():
 def function_four():
     print("Function Four from func_4_branch")
 
+
 def function_five():
     print("Function 5")
+
+
+def function_six():
+    print("Function Six")
